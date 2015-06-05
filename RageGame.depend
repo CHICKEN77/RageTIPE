@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1421619587 source:c:\users\françois-xavier\desktop\tipe\ragegame\draw.c
+	"draw.h"
+
+1421619587 c:\users\françois-xavier\desktop\tipe\ragegame\draw.h
+	"structs.h"
+
+1422285333 c:\users\françois-xavier\desktop\tipe\ragegame\structs.h
+	"defs.h"
+
+1422292215 c:\users\françois-xavier\desktop\tipe\ragegame\defs.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<math.h>
+	<SDL/SDL.h>
+	<SDL_image.h>
+
+1289139782 source:c:\users\françois-xavier\desktop\tipe\ragegame\init.c
+	"init.h"
+
+1289139358 c:\users\françois-xavier\desktop\tipe\ragegame\init.h
+	"structs.h"
+
+1421619782 source:c:\users\françois-xavier\desktop\tipe\ragegame\input.c
+	"input.h"
+
+1289230538 c:\users\françois-xavier\desktop\tipe\ragegame\input.h
+	"structs.h"
+
+1421619798 source:c:\users\françois-xavier\desktop\tipe\ragegame\main.c
+	"main.h"
+
+1421619805 c:\users\françois-xavier\desktop\tipe\ragegame\main.h
+	"structs.h"
+
+1421620778 source:c:\users\françois-xavier\desktop\tipe\ragegame\map.c
+	"map.h"
+
+1289140584 c:\users\françois-xavier\desktop\tipe\ragegame\map.h
+	"structs.h"
+
+1421619379 source:c:\users\françois-xavier\desktop\tipe\ragegame\animation.c
+	"animation.h"
+
+1421619369 c:\users\françois-xavier\desktop\tipe\ragegame\animation.h
+	"structs.h"
+
+1422285330 source:c:\users\françois-xavier\desktop\tipe\ragegame\player.c
+	"player.h"
+
+1421620844 c:\users\françois-xavier\desktop\tipe\ragegame\player.h
+	"structs.h"
+

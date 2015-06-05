@@ -1,0 +1,269 @@
+# depslib dependency file v1.0
+1289471271 source:z:\aron project\level editor\init.c
+	"init.h"
+
+1289142959 z:\aron project\level editor\init.h
+	"structs.h"
+
+1289474126 z:\aron project\level editor\structs.h
+	"defs.h"
+
+1289485325 z:\aron project\level editor\defs.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<math.h>
+	<SDL.h>
+	<SDL_image.h>
+
+1199052374 c:\program files (x86)\codeblocks\sdl-1.2.13\include\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199052374 c:\program files (x86)\codeblocks\sdl-1.2.13\include\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199052374 c:\program files (x86)\codeblocks\sdl-1.2.13\include\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1199052374 c:\program files (x86)\codeblocks\sdl-1.2.13\include\sdl_config.h
+	"SDL_platform.h"
+	<stdarg.h>
+
+1199052374 c:\program files (x86)\codeblocks\sdl-1.2.13\include\sdl_platform.h
+
+1199052374 c:\program files (x86)\codeblocks\sdl-1.2.13\include\begin_code.h
+
+1199052374 c:\program files (x86)\codeblocks\sdl-1.2.13\include\close_code.h
+
+1199052374 c:\program files (x86)\codeblocks\sdl-1.2.13\include\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199052374 c:\program files (x86)\codeblocks\sdl-1.2.13\include\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199052374 c:\program files (x86)\codeblocks\sdl-1.2.13\include\sdl_endian.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199052374 c:\program files (x86)\codeblocks\sdl-1.2.13\include\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199052374 c:\program files (x86)\codeblocks\sdl-1.2.13\include\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1199052374 c:\program files (x86)\codeblocks\sdl-1.2.13\include\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199052374 c:\program files (x86)\codeblocks\sdl-1.2.13\include\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199052374 c:\program files (x86)\codeblocks\sdl-1.2.13\include\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199052374 c:\program files (x86)\codeblocks\sdl-1.2.13\include\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199052374 c:\program files (x86)\codeblocks\sdl-1.2.13\include\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199052374 c:\program files (x86)\codeblocks\sdl-1.2.13\include\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199052374 c:\program files (x86)\codeblocks\sdl-1.2.13\include\sdl_keysym.h
+
+1199052374 c:\program files (x86)\codeblocks\sdl-1.2.13\include\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199052374 c:\program files (x86)\codeblocks\sdl-1.2.13\include\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199052374 c:\program files (x86)\codeblocks\sdl-1.2.13\include\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199052374 c:\program files (x86)\codeblocks\sdl-1.2.13\include\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1199052374 c:\program files (x86)\codeblocks\sdl-1.2.13\include\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199052374 c:\program files (x86)\codeblocks\sdl-1.2.13\include\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199052374 c:\program files (x86)\codeblocks\sdl-1.2.13\include\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1227473390 c:\program files (x86)\codeblocks\sdl-1.2.13\include\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1289482874 source:z:\aron project\level editor\input.c
+	"input.h"
+
+1289475296 z:\aron project\level editor\input.h
+	"structs.h"
+
+1289469010 source:z:\aron project\level editor\main.c
+	"main.h"
+
+1289474126 z:\aron project\level editor\main.h
+	"structs.h"
+
+1289485231 source:z:\aron project\level editor\map.c
+	"map.h"
+
+1289485634 z:\aron project\level editor\map.h
+	"structs.h"
+
+1289144184 source:z:\aron project\level editor\draw.c
+	"draw.h"
+
+1289142877 z:\aron project\level editor\draw.h
+	"structs.h"
+
+1289140584 source:c:\users\françois-xavier\desktop\tipe\ragegame\level editor\draw.c
+	"draw.h"
+
+1289139276 c:\users\françois-xavier\desktop\tipe\ragegame\level editor\draw.h
+	"structs.h"
+
+1289470526 c:\users\françois-xavier\desktop\tipe\ragegame\level editor\structs.h
+	"defs.h"
+
+1381578788 c:\users\françois-xavier\desktop\tipe\ragegame\level editor\defs.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<math.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+
+1289467670 source:c:\users\françois-xavier\desktop\tipe\ragegame\level editor\init.c
+	"init.h"
+
+1289139358 c:\users\françois-xavier\desktop\tipe\ragegame\level editor\init.h
+	"structs.h"
+
+1289479274 source:c:\users\françois-xavier\desktop\tipe\ragegame\level editor\input.c
+	"input.h"
+
+1289471696 c:\users\françois-xavier\desktop\tipe\ragegame\level editor\input.h
+	"structs.h"
+
+1289465410 source:c:\users\françois-xavier\desktop\tipe\ragegame\level editor\main.c
+	"main.h"
+
+1289470526 c:\users\françois-xavier\desktop\tipe\ragegame\level editor\main.h
+	"structs.h"
+
+1289481630 source:c:\users\françois-xavier\desktop\tipe\ragegame\level editor\map.c
+	"map.h"
+
+1289482034 c:\users\françois-xavier\desktop\tipe\ragegame\level editor\map.h
+	"structs.h"
+

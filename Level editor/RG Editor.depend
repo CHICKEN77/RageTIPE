@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1289140584 source:c:\users\françois-xavier\desktop\tipe\ragegame\level editor\draw.c
+	"draw.h"
+
+1289139276 c:\users\françois-xavier\desktop\tipe\ragegame\level editor\draw.h
+	"structs.h"
+
+1289470526 c:\users\françois-xavier\desktop\tipe\ragegame\level editor\structs.h
+	"defs.h"
+
+1381578788 c:\users\françois-xavier\desktop\tipe\ragegame\level editor\defs.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<math.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+
+1289467670 source:c:\users\françois-xavier\desktop\tipe\ragegame\level editor\init.c
+	"init.h"
+
+1289139358 c:\users\françois-xavier\desktop\tipe\ragegame\level editor\init.h
+	"structs.h"
+
+1289479274 source:c:\users\françois-xavier\desktop\tipe\ragegame\level editor\input.c
+	"input.h"
+
+1289471696 c:\users\françois-xavier\desktop\tipe\ragegame\level editor\input.h
+	"structs.h"
+
+1289465410 source:c:\users\françois-xavier\desktop\tipe\ragegame\level editor\main.c
+	"main.h"
+
+1289470526 c:\users\françois-xavier\desktop\tipe\ragegame\level editor\main.h
+	"structs.h"
+
+1289481630 source:c:\users\françois-xavier\desktop\tipe\ragegame\level editor\map.c
+	"map.h"
+
+1289482034 c:\users\françois-xavier\desktop\tipe\ragegame\level editor\map.h
+	"structs.h"
+
